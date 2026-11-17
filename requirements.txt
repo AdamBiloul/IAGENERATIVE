@@ -1,0 +1,12 @@
+torch==2.15.0
+torchvision==0.29.2
+matplotlib==3.11.2
+scikit-learn==1.9.1
+torchviz==0.0.3
+torcheval==0.0.7
+torchmetrics==1.9.0
+jupyterlab==4.6.6
+ipykernel==7.4.0
+nbconvert==7.17.2
+nbclient==0.11.0
+nbformat==5.11.1
